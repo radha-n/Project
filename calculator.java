@@ -55,4 +55,7 @@ import java.util.Scanner;
 																	            System.out.print("\n---------------------------------------\n");
 	}while(choice != 5);       
     }
-}
+
+  }
+/*This is for demo purpose*/
+:X
